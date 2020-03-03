@@ -1,0 +1,72 @@
+/* Start */
+.font-Light {
+  font-family: "open_sanslight";
+  font-weight: 100;
+  font-style: normal;
+}
+.font-Light-italic {
+  font-family: "open_sanslight_italic";
+  font-weight: normal;
+  font-style: normal;
+}
+.font-regular {
+  font-family: "open_sansregular";
+  font-weight: normal;
+  font-style: normal;
+}
+.font-regular-italic {
+  font-family: "open_sansitalic";
+  font-weight: normal;
+  font-style: normal;
+}
+.font-bold {
+  font-family: "open_sansbold";
+  font-weight: bold;
+  font-style: normal;
+  font-size: 14px;
+}
+.font-bold-italic {
+  font-family: "open_sansextrabold";
+  font-weight: bold;
+  font-style: normal;
+}
+.font-semibold {
+  font-family: "open_sanssemibold";
+  font-weight: 600;
+  font-style: normal;
+}
+.font-extra-bold {
+  font-family: "open_sansextrabold";
+  font-weight: 800;
+  font-style: normal;
+}
+.font-extra-bold-italic {
+  font-family: "open_sansextrabold_italic";
+  font-weight: 800;
+  font-style: normal;
+}
+/* End */
+.header-transparent {
+  background-color: transparent;
+}
+.dropdown-list .active{
+    border: 2px solid #ffffff;
+    border-radius: 50px;
+}
+.scroll-color {
+  background-color:#817cbc;
+}
+/* VIDEO DAM YOUTUBE */
+.video-dam-youtube video {
+  width: 100%;
+  height: 100%;
+  background-size: 100% 100%;
+  object-fit: cover; 
+}
+
+.video-dam-youtube iframe {
+  width: 100%;
+  height: 600px; }
+/* End VIDEO DAM YOUTUBE */
+
+  
